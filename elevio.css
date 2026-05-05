@@ -1,15 +1,15 @@
-._elevio_widget #_elev_io ._elevio_module_icon div {
+#_elev_io { /* works on font for articles */
+    font-family: open-sans, Helvetica, Arial, sans-serif !important;
+}
+
+._elevio_widget #_elev_io ._elevio_module_icon div { /* should change text color under header icons but doesn't work */
     color: #525357 !important;
 }
 
-#_elev_io {
-    font-family: open-sans, Helvetica, Arial, sans-serif !import;
-}
-
-._elevio_category_text {
+._elevio_category_text { /* should change text color of categories but doesn't work */
     color: #000;
 }
 
-._elevio_article_body {
-    color: rgb(0 0 0 / 90%);
+._elevio_article_body a { /* works and changes color of links in articles */
+    color: #1A579E
 }
