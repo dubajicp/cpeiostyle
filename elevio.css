@@ -5,3 +5,7 @@
 #_elev_io {
     font-family: open-sans, Helvetica, Arial, sans-serif !import;
 }
+
+._elevio_category_text {
+    color: #000;
+}
