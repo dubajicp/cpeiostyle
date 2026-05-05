@@ -1,3 +1,7 @@
 ._elevio_widget #_elev_io ._elevio_module_icon div {
     color: #525357 !important;
 }
+
+#_elev_io {
+    font-family: open-sans, Helvetica, Arial, sans-serif !import;
+}
